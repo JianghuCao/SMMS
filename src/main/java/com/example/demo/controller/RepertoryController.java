@@ -9,5 +9,8 @@ public class RepertoryController {
 	public String createInboundBill() {
 		return "";
 	}
+	public String createOutboundBill() {
+		return "";
+	}
 
 }
